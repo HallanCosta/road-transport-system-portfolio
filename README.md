@@ -1,8 +1,5 @@
 # 🚌 Sistema de Transporte Rodoviário
 
-
-## 📱 Visão Geral do Sistema
-
 Este é um sistema completo de transporte rodoviário que permite aos usuários comprar passagens de ônibus de forma digital, gerenciar suas viagens e acompanhar o status de suas reservas. O sistema oferece uma interface moderna e intuitiva para facilitar o processo de compra e gestão de passagens.
 
 ## 🏠 Página Inicial
